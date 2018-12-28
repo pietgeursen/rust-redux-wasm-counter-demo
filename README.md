@@ -1,4 +1,6 @@
-# 🦀🕸️ `wasm-pack-template`
+# 🦀🕸️rust in redux with wasm`
+
+[Deployed App Here](https://pietgeursen.github.io/rust-redux-wasm-counter-demo/www/dist/index.html)
 
 A template for kick starting a Rust and WebAssembly project using
 [`wasm-pack`](https://github.com/rustwasm/wasm-pack).
