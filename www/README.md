@@ -1,4 +1,6 @@
-# `create-wasm-app`
+# `rust redux to wasm`
+
+[Deployed App Here](https://pietgeursen.github.io/rust-redux-wasm-counter-demo/www/dist/index.html)
 
 > An `npm init` template for kick starting a project that uses NPM packages
 > containing Rust-generated WebAssembly and bundles them with Webpack.
