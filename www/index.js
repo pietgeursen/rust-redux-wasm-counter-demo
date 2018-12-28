@@ -25,6 +25,6 @@ function render (count) {
   html.update(el, page)
 }
 
-render(store.getState())
+render(store.get_state())
 
 store.subscribe(render)
